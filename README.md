@@ -1,7 +1,6 @@
 This is a little Coloring Book project. 
 
-![Screenshot] https://github.com/dshaplyka/colorMe/blob/main/Screenshot.jpg 
-
+The process is described in details in the Presentation file.
 
 Here's the link to the website: https://secret-harbor-84237.herokuapp.com 
 
